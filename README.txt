@@ -1,4 +1,6 @@
 
+This module finds duplicated files in a given directory. Binary files with
+duplicates can be created using the out_create_files.sh script.
 
 A directory that will contain the generated files, needs to be created.
 
