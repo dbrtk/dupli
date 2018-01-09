@@ -1,6 +1,6 @@
 
 
-A directory that will contain the generated files needs to be created.
+A directory that will contain the generated files, needs to be created.
 
 
 The command generating files with duplicates:
