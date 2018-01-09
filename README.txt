@@ -1,11 +1,12 @@
 
-A directory needs to be created, that will contain the generated files.
+
+A directory that will contain the generated files needs to be created.
 
 
-Command generating files with duplicates:
+The command generating files with duplicates:
 bash out_create_files.sh /path/to/files/ 100
 
-Looking for duplicates:
+The commands to run the script that looks for duplicates:
 python3 duplicates_async.py /path/to/files/
 or
 python3 duplicates.py /path/to/files/
