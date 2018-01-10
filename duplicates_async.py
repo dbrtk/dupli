@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 
-import sys
-import os
+import argparse
+import asyncio
 import hashlib
+import os
 import pprint
 import stat
-import asyncio
-import argparse
+import sys
 
 BUFSIZE = 8 * 1024
 BYTEORDER = sys.byteorder
